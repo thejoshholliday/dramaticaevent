@@ -1,0 +1,83 @@
+.question {
+	font-family: agencyfbblack;
+	color: #ffffff;
+	font-size:7.5vw;
+	 text-align: left;
+	 width: 100%;
+  height: 100%;
+  margin-top: 10vw;
+
+}
+.answer {
+	font-size:3.5vw;
+	font-family: malcolm;
+	color: white;
+	 text-align: left;
+	 width: 100%;
+  height: 100%;
+  padding: 1.5vw;
+}
+.FAQ {
+	font-size:7.5vw;
+	position:relative;
+	 text-align: center;
+	 width: 100%;
+  height: 100%;
+}
+ul {
+	margin-top: 30vw;
+	margin-bottom: 20vw;
+	width: 100%;
+	height: auto;
+}
+a {
+	font-size: 3vw;
+}
+body {
+	background-image: url(imgs/woah.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	  background-attachment: fixed;
+	font-family: pilowlava;
+	color: #ff70a9;
+	display: inline-block;
+	size: 20vw;
+}
+li {
+	  list-style-type: none;
+	  text-align: center;
+	  padding: 30px;
+}
+.menu li {
+	margin-left: 30vw;
+	margin-right: auto;
+    max-width: 20vw;
+    max-height: 10vw;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color: #ff70a9;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu li:hover {
+  background: red;
+}
+a:link {
+    text-decoration: none;
+    cursor: pointer;
+}
+@media (max-width: 450px) {
+	}
+	h1 {
+		margin-left: 15vw;
+		font-size: 20vw;
+	}
+	h2 {
+		margin-left: 15vw;
+		font-size: 5vw;
+	}
+	img {
+	  width: 66.66%;
+		height: 100%;
+  	  margin-left: 0vw;
+}

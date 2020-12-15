@@ -1,0 +1,201 @@
+.Dramatica {
+	font-size: 16.75vw;
+}
+.ariana {
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+}
+.mariah {
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+	margin-top: 50vw;
+}
+.beyonce {
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+	margin-top: 45vw;
+}
+.gaga{
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+	margin-top: 45vw;
+}
+.miley {
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+	margin-top: 45vw;
+}
+.dua {
+	font-family: malcolm;
+	margin-left: 50vw;
+	margin-right: 30vw;
+	font-size: 2vw;
+	color: white;
+	margin-top: 45vw;
+}
+ul {
+	margin-top: 30vw;
+	margin-bottom: 20vw;
+	width: 100%;
+	height: auto;
+}
+body {
+	background-image: url(imgs/dancefloor1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	  background-attachment: fixed;
+	font-family: pilowlava;
+	color: #ff70a9;
+	display: inline-block;
+}
+.arianaimg {
+	margin-top: -10vw;
+	position: absolute;
+	 width:35vw;
+	 height:55vw;
+	 margin-left: 10vw;
+}
+.arianaimg:hover {
+	margin-top: -10vw;
+	position: absolute;
+	 width:35vw;
+	 height:55vw;
+	 margin-left: 10vw;
+	 transform: scale(0.95);
+}
+.mariahimg {
+	margin-top: 35vw;
+	position: absolute;
+	width:35vw;
+	 height:55vw;
+	  margin-left: 10vw;
+}
+.mariahimg:hover {
+	margin-top: 35vw;
+	position: absolute;
+	width:35vw;
+	 height:55vw;
+	  margin-left: 10vw;
+	  transform: scale(0.95);
+}
+.beyonceimg {
+	margin-top:32vw;
+	position: absolute;
+	width:35vw;
+	 height: 55vw;
+	  margin-left: 10vw;
+}
+.beyonceimg:hover {
+	margin-top:32vw;
+	position: absolute;
+	width:35vw;
+	 height:55vw;
+	  margin-left: 10vw;
+	   transform: scale(0.95);
+}
+.gagaimg {
+	margin-top:35vw;
+	position: absolute;
+	width:35vw;
+	 height:45vw;
+	  margin-left: 12vw;
+}
+.gagaimg:hover {
+	margin-top:35vw;
+	position: absolute;
+	width:35vw;
+	 height:45vw;
+	  margin-left: 12vw;
+	  transform: scale(0.95);
+}
+.mileyimg {
+	margin-top:35vw;
+	position: absolute;
+	width:25vw;
+	 height:50vw;
+	  margin-left: 20vw;
+}
+.mileyimg:hover {
+	margin-top:35vw;
+	position: absolute;
+	width:25vw;
+	 height:50vw;
+	  margin-left: 20vw;
+	    transform: scale(0.95);
+}
+.duaimg {
+margin-top:35vw;
+	position: absolute;
+	width:35vw;
+	 height:45vw;
+	  margin-left: 12vw;
+}
+.duaimg:hover {
+	margin-top:35vw;
+	position: absolute;
+	width:35vw;
+	 height:45vw;
+	  margin-left: 12vw;
+	  transform: scale(0.95);
+}
+h1 {
+	margin-top: 0vw;
+	margin-left: 25vw;
+	margin-right: 25vw;
+	font-size: 13vw;
+}
+li {
+	  list-style-type: none;
+	  text-align: center;
+	  padding: 30px;
+}
+.menu li {
+	margin-left: 35vw;
+	margin-right: 35vw;
+    max-width: 20vw;
+    max-height: 10vw;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color: #ff70a9;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.menu li:hover {
+  background: red;
+}
+a:link {
+    text-decoration: none;
+    cursor: pointer;
+}
+@media (max-width: 450px) {
+	}
+	h1 {
+		margin-left: 15vw;
+		font-size: 20vw;
+	}
+	h2 {
+		margin-left: 15vw;
+		font-size: 5vw;
+	}
+	img {
+	  width: 66.66%;
+		height: 100%;
+  	  margin-left: 0vw;
+}
+
+
